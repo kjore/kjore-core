@@ -1,0 +1,3 @@
+[submodule "libs/kjore-utils"]
+	path = libs/kjore-utils
+	url = https://github.com/kjore/kjore-utils.git
